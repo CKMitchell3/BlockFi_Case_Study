@@ -12,3 +12,9 @@ All class assignments and projects held here
 ## Fintech repository
 ### Fintech repository
 
+Fintech repository
+
+
+*italics*
+
+**Bold**
