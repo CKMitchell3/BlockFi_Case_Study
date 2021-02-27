@@ -32,7 +32,7 @@ print("hi")
 ```
 
 [this is a link](https://en.wikipedia.org/wiki/Financial_technology)
-[this is my index file](index.md)
+[this is my index file](images)
 
 [Go to the data package](data)
 
