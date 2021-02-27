@@ -19,6 +19,9 @@ All class assignments and projects held here
  ### Table of Contents
  
  [Data](data)
+ 
  [Images](images)
+ 
  [References](references)
+ 
  [Code](code)
