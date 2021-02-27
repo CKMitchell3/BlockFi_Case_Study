@@ -11,7 +11,7 @@ All class assignments and projects held here
  
  # We are all Witnesses
  
- ![The greatest ever!!!](https://www.google.com/search?q=kobe+bryant&sxsrf=ALeKk01CG4LdDH0B8N9YgA_t6QErvjRIJQ:1614444691967&source=lnms&tbm=isch&sa=X&ved=2ahUKEwijy_6Sw4rvAhWO1FkKHTnOBCsQ_AUoAnoECDAQBA&biw=1745&bih=881#imgrc=fbQI4Pe30FFTsM)
+ ![The greatest ever!!!](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.npr.org%2F2020%2F04%2F04%2F827378021%2Fkobe-bryant-elected-to-hall-of-fame-in-posthumous-peak-of-his-career&psig=AOvVaw26MtOuyfUscNZkGpYglteM&ust=1614531094312000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDY4J3Diu8CFQAAAAAdAAAAABAR)
  
  
  ## This is dedicated to the GOAT
