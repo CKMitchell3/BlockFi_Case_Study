@@ -17,6 +17,7 @@ BlockFi came to be because of the fragmentation of the bitcoin – and really cr
 ### How is the company funded? How much funding have they received?
 BlockFi is a private company that’s already underwent 5 investment rounds with plans of going public soon. To-date, BlockFi has received just under $160M ($158.7M) in funding from large investors such as Fidelity, Winklevoss Capital, Valar Ventures, SoFi, Coinbase, NBA player Matthew Dellavedova and more. 
 
+---
 
 ## Business Activities
 
@@ -39,9 +40,7 @@ Compared to other Digital Asset Lending Platforms (Genesis Capital, Celsius Netw
 ### Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 BlockFi uses ‘Application and Data’ technologies, ‘DevOps’ technologies and ‘Business Tools’ to run its platform. In specific, it uses the following ‘Application and Data’ technologies – JavaScript, React, NGINX, HTML5, PostgreSQL, TypeScript, Amazon EC2, CSS 3 and React Native. It also uses the following ‘DevOps’ technologies – GitHub, Git, Docker and Ansible – and Business Tools – Slack, Jira, Confluence and HubSpot. 
 
-
-
-
+---
 
 ## Landscape:
 
@@ -56,18 +55,14 @@ A major trend in the Blockchain & Cryptocurrencies domain has been the invention
 ### What are the other major companies in this domain?
 BlockFi’s main competitors are Genesis Capital, Nexo, Celsius Network and Aave
 
-
-
+---
 
 ## Results
 
 ### What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 Total Client Assets ($8B), Annual Revenue ($100M), Loans Originated ($5B) and Total Funded Accounts (125,000+). There is limited financial data on BlockFi, as well as their competitors, because of the novelty of this industry and because they are private institutions. However, BlockFi is widely considered to be the top crypto lending platform available in the cryptocurrency space so it is performing very well compared to its competitors.
 
-
-
-
-
+---
 
 ## Recommendations
 
@@ -77,7 +72,7 @@ The ability to purchase cryptocurrencies with USD on the BlockFi app/platform an
 ### Why do you think that offering this product or service would benefit the company?
 Most retail customers that use cryptocurrency exchanges to store their bitcoin appreciate the simplicity that the exchange offers. If BlockFi were to offer these services, essentially becoming one step closer to functioning as a one-stop shop (similar to SoFi, a huge inspiration of BlockFi’s), then they would heavily rival popular exchanges such as Coinbase, Binance and Kraken. 
 
-
+---
 
 ## Closing Thoughts
 
@@ -87,9 +82,7 @@ As mentioned earlier, BlockFi has a perfect track record with their customers th
 
 I truly believe BlockFi can become one of the largest banks – not cryptocurrency bank, full-service bank – in the US due to their leadership’s amazing vision and willingness to take risk, their strong financial and relational backing, and their solid business plan. At the moment, not many Americans are involved in cryptocurrency, with many saying they don’t trust the concept and even more knowing nothing more than the term “bitcoin” itself. However, digital currency is where the world is headed whether the average American trusts it or not, and the first movers in the space will benefit greatly from the transition if they’re prepared. Once the world begins to fully transition to digital currency’s, most people still won’t be prepared to fully step into Satoshi Nakamoto’s vision for a totally decentralized financial world and will still rely on financial institutions to safeguard their so-highly-coveted assets for them. No matter how much society has evolved, the one constant throughout all of it has been human behavior and that will not change any time soon. Therefore, I wholeheartedly believe that BlockFi has what it takes to go from an unknown private startup (to those outside of the FinTech world) to a household name by the end of this promising decade.
 
-
-
-
+---
 
 ## Sources
 https://www.crunchbase.com/organization/blockfi-inc
