@@ -82,22 +82,51 @@ Most retail customers that use cryptocurrency exchanges to store their bitcoin a
 
 
 
+## Closing Thoughts
+
+BlockFi is well positioned to be one of the leaders of the developing New Age of Finance, Technology and Cryptocurrency. One of the company’s largest influences, SoFi, has laid out a phenomenal blueprint for fintech startups to follow and BlockFi seems as though it intends to do just so. SoFi initially began as a lending startup that offered student loan refinancing to Ivy League students. After adding more products to its business mix, SoFi transformed into a banking, wealth management and lending mainstay in the financial realm – also one of the most exciting upcoming SPACs of 2021. BlockFi has the opportunity to follow in their muse’s steps by not just offering lending and interest-earning accounts to their customers, but by also diversifying their product offerings and forming trust with their clientele network. 
+
+As mentioned earlier, BlockFi has a perfect track record with their customers thus far and has never faced any major breaches nor failed to pay interest to their clientele, and they plan to continue this. What has not been mentioned, though, are BlockFi’s product offerings besides their lending, market-making and interest-earnings accounts – BlockFi offers their institutional clients exposure to the Bitcoin market through their new Bitcoin Trust and all of their clients access to a BlockFi Rewards Credit Card. By offering these two innovative products, in addition to what their known for, BlockFi has shown me that they’re thinking well beyond their current position and see the Crypto space as unchartered territory full of opportunity. 
+
+I truly believe BlockFi can become one of the largest banks – not cryptocurrency bank, full-service bank – in the US due to their leadership’s amazing vision and willingness to take risk, their strong financial and relational backing, and their solid business plan. At the moment, not many Americans are involved in cryptocurrency, with many saying they don’t trust the concept and even more knowing nothing more than the term “bitcoin” itself. However, digital currency is where the world is headed whether the average American trusts it or not, and the first movers in the space will benefit greatly from the transition if they’re prepared. Once the world begins to fully transition to digital currency’s, most people still won’t be prepared to fully step into Satoshi Nakamoto’s vision for a totally decentralized financial world and will still rely on financial institutions to safeguard their so-highly-coveted assets for them. No matter how much society has evolved, the one constant throughout all of it has been human behavior and that will not change any time soon. Therefore, I wholeheartedly believe that BlockFi has what it takes to go from an unknown private startup (to those outside of the FinTech world) to a household name by the end of this promising decade.
+
+
+
+
+
 ## Sources
 https://www.crunchbase.com/organization/blockfi-inc
+
 https://blockworks.co/blockfi-seeks-new-funding-ahead-of-ipo-plans/
+
 https://aithority.com/technology/cryptocurrency/blockfi-launches-the-blockfi-bitcoin-trust/
+
 https://blockfi.com/
+
 https://www.blockfitrust.com/
+
 https://www.coindesk.com/blockfi-is-now-paying-interest-on-53-million-of-crypto-deposits
+
 https://twitter.com/blockfi?lang=en
+
 https://blockfi.com/use-trading
+
 https://podcasts.apple.com/us/podcast/btc013-bitcoin-lending-borrowing-w-blockfis-zac-prince/id928933489?i=1000509479669
+
 https://hackernoon.com/12-best-bitcoin-lending-sites-to-earn-interest-in-2021-idl32os
+
 https://defirate.com/btc/
+
 https://defirate.com/blockfi/
+
 https://www.theblockcrypto.com/post/91621/blockfi-company-intelligence-building-a-neobank-for-crypto
+
 https://medium.com/blockchain/how-big-is-defi-a-look-at-the-crypto-lending-market-fe2271d477b7
+
 https://www.forbes.com/sites/leeorshimron/2020/05/26/exploding-past-10b-interest-income-and-lending-are-bitcoins-first-killer-apps/?sh=89d03bd3320e
+
 https://www.coindesk.com/kraken-exchange-integrate-bitcoin-lightning-2021
+
 https://internationalbanker.com/brokerage/crypto-derivatives-are-on-the-rise/
+
 https://stackshare.io/blockfi/blockfi
